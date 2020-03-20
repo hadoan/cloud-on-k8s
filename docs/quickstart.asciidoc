@@ -1,5 +1,5 @@
 ifdef::env-github[]
-****
+**** 
 link:https://www.elastic.co/guide/en/cloud-on-k8s/master/k8s-quickstart.html[View this document on the Elastic website]
 ****
 endif::[]
